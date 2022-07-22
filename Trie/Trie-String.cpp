@@ -1,6 +1,4 @@
-// #include <bits/stdc++.h>
-// using namespace std;
-
+/* Lakshit */
 
 //Trie-String
 // LowerCase or UpperCase only
